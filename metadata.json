@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Produção Industrial & Academia Power BI",
+  "description": "Plataforma de inteligência de produção industrial com dashboard OEE completo, banco de dados simulado, exportação para Excel/CSV/SQL e guias para Microsoft Power BI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
